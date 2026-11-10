@@ -1,0 +1,14 @@
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\bin\Debug\net8.0\AlagaAlerta.Simulador.exe
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\bin\Debug\net8.0\AlagaAlerta.Simulador.deps.json
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\bin\Debug\net8.0\AlagaAlerta.Simulador.runtimeconfig.json
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\bin\Debug\net8.0\AlagaAlerta.Simulador.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\bin\Debug\net8.0\AlagaAlerta.Simulador.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.AssemblyInfoInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.AssemblyInfo.cs
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.csproj.CoreCompileInputs.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\refint\AlagaAlerta.Simulador.dll
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.pdb
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\AlagaAlerta.Simulador.genruntimeconfig.cache
+C:\Users\fabri\OneDrive\Área de Trabalho\GS\alagaalerta-dotnet\tools\AlagaAlerta.Simulador\obj\Debug\net8.0\ref\AlagaAlerta.Simulador.dll
